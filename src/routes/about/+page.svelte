@@ -26,10 +26,9 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Your mind deserves better than scattered chaos"
+	subtitle="We built the AI memory system that transforms how knowledge workers think, store, and retrieve everything that matters."
+	imageSrc="/generated/image-a-diverse-group-of-people-collaborating-.webp"
 />
 
 <!-- Story Section -->
